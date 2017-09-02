@@ -18,7 +18,7 @@ github地址： https://github.com/haomou/pwabook
 
 ## 目录结构
 ### 初识PWA
-1. [关于H5页面的性能优化](./blob/master/book/h5.md)
+1. [关于H5页面的性能优化](./book/h5.md)
 
 ## 参考资料
 1. [PWA相关知识](http://blog.csdn.net/u010009623/article/details/54313233)
