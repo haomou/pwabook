@@ -16,6 +16,10 @@ github地址： https://github.com/haomou/pwabook
 
 博客地址：http://www.haomou.net/progressive-web-apps-book/
 
+## 目录结构
+### 初识PWA
+1. [关于H5页面的性能优化](./blob/master/book/h5.md)
+
 ## 参考资料
 1. [PWA相关知识](http://blog.csdn.net/u010009623/article/details/54313233)
 2. [pwa的出现会对移动端原生开发造成什么影响？](https://www.zhihu.com/question/55635132)
